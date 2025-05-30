@@ -1,0 +1,22 @@
+# ninja log v5
+7	30392	1730105998575820086	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/interpolation/interpolation_cuda.o	5d076b4859d348f5
+3	32661	1730106000838874143	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/attention/attention_cuda.o	169b6ae2410684ca
+1	33034	1730106001210883029	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/aggregation/aggregation_cuda.o	f1c6b66cbc9a40a6
+4	35660	1730106003863946411	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/attention_v2/attention_cuda_v2.o	3dec5aab96764572
+5	36070	1730106004257955825	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/grouping/grouping_cuda.o	8e37b0265c98b88d
+8	57904	1730106026098477938	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/interpolation/interpolation_cuda_kernel.o	7fedcdb93392ad33
+4	58295	1730106026490487315	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/attention_v2/attention_cuda_kernel_v2.o	e00fab1c12fae8a1
+30405	59089	1730106027293506523	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/knnquery/knnquery_cuda.o	1c27d2f597a34e22
+3	60113	1730106028305530731	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/attention/attention_cuda_kernel.o	708c867da0619753
+2	61588	1730106029786566161	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/aggregation/aggregation_cuda_kernel.o	5f0f23b851e0034
+5	62133	1730106030323579008	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/grouping/grouping_cuda_kernel.o	3327c1bbe768deca
+35662	64721	1730106032918641096	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/rpe/relative_pos_encoding_cuda.o	331fee8d462756d4
+59091	83415	1730106051612088577	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/sampling/sampling_cuda.o	1b13260be640209b
+58296	83882	1730106052080099785	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/rpe_v2/relative_pos_encoding_cuda_v2.o	89c90a85b12845af
+32662	84057	1730106052241103641	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/knnquery/knnquery_cuda_kernel.o	ac35135f4896ab75
+61589	84864	1730106053069123471	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/subtraction/subtraction_cuda.o	d7c44c617d28fe66
+36072	87569	1730106055774188263	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/rpe/relative_pos_encoding_cuda_kernel.o	717cdfad40841987
+33035	90367	1730106058544254619	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/pointops_api.o	adad6e547fdac10b
+57906	102491	1730106070688545634	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/rpe_v2/relative_pos_encoding_cuda_kernel_v2.o	c2672b384fb4cf90
+60114	104160	1730106072356585618	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/sampling/sampling_cuda_kernel.o	fe48d4e2027054de
+62134	105344	1730106073539613978	/home/wicom/lidar-odometry/point-transformer/lib/pointops2/build/temp.linux-x86_64-3.10/src/subtraction/subtraction_cuda_kernel.o	88627a56a2caa054

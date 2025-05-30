@@ -1,0 +1,20 @@
+# ninja log v5
+1	12736	1746063752446380267	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/grouping/grouping_cuda.o	b3056b49ab479edf
+2	13375	1746063753088387581	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/interpolation/interpolation_cuda.o	916fa5824ab7b10b
+2	15617	1746063755328413132	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/knn_query/knn_query_cuda.o	3a09b84564299b1c
+1	15807	1746063755518415301	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/aggregation/aggregation_cuda.o	dec02392e4cec826
+1	15932	1746063755645416750	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/ball_query/ball_query_cuda.o	b8355f28d6ffe1fe
+3	16774	1746063756485426344	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/subtraction/subtraction_cuda.o	cc918ebdd8285f6a
+2	16922	1746063756637428080	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/random_ball_query/random_ball_query_cuda.o	e82a34f6eb6b08c5
+3	17143	1746063756857430592	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/sampling/sampling_cuda.o	eb4e2170c3bb0725
+1	17605	1746063757320435884	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/attention/attention_cuda.o	1454df89f535e1cb
+2	27361	1746063767054547484	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/pointops_api.o	ed4188243bc6ddde
+2	30500	1746063770204583747	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/knn_query/knn_query_cuda_kernel.o	505acf9134def26f
+2	30509	1746063770212583839	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/grouping/grouping_cuda_kernel.o	5c709ae59c3788f7
+3	30544	1746063770249584266	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/subtraction/subtraction_cuda_kernel.o	1809936b084a1ea6
+3	30739	1746063770443586502	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/random_ball_query/random_ball_query_cuda_kernel.o	c79a091bfbdfa663
+1	31387	1746063771093593994	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/aggregation/aggregation_cuda_kernel.o	11b503d32cdaa0cd
+1	32412	1746063772117605805	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/ball_query/ball_query_cuda_kernel.o	abf19759d1de2db1
+3	32446	1746063772151606197	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/sampling/sampling_cuda_kernel.o	8d24ca0f273fa4c1
+2	33123	1746063772829614021	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/interpolation/interpolation_cuda_kernel.o	f9fa1de4c33b8c87
+1	33658	1746063773364620198	/home/wicomai2/mummtaz/rangga/lo/lib/pointops/build/temp.linux-x86_64-cpython-312/src/attention/attention_cuda_kernel.o	588323202569cc4f
